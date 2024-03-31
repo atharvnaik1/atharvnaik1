@@ -12,7 +12,7 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 <a href="http://atharv.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://api.github.com/atharvnaik1/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 </p>
