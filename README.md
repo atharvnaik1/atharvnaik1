@@ -6,14 +6,6 @@
 </p>
 
 <p align="center">
-
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvnaik1&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
