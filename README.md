@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvnaik1&hide=html&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvnaik1&hide=jupyter_notebook&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
 <p align="center">
