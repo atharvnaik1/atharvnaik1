@@ -18,10 +18,7 @@
 
 <p align="center">
    <i style="font-size: 10px;">
-  <b>"Don't ever let somebody tell you, you can't do something!
-You got a dream… You gotta protect it.
-People can’t do something themselves, they wanna tell you you can’t do it.
-If you want something, go get it. Period"
+  <b>
   </b>
 </i>
 </p>
