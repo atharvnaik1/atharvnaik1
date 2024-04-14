@@ -16,3 +16,8 @@
 <a href="https://github.com/atharvnaik1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
+<p align="center">"Don't ever let somebody tell you, you can't do something!
+You got a dream… You gotta protect it.
+People can’t do something themselves, they wanna tell you you can’t do it.
+If you want something, go get it. Period"
+</p>
