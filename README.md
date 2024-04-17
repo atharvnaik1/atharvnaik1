@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-   <i style="font-size: 10px;"> 
+   <i style="font-size: 20px;"> 
   <b> Contact me @ atharvajaynaik@gmail.com
   </b>
 </i>
