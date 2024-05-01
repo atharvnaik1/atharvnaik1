@@ -2,7 +2,7 @@
 <p align='center'>
 <a>
   <b>
-   Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN ||
+   Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN |
   </b>
   </a>
   </p>
