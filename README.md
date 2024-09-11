@@ -4,7 +4,8 @@
   <b>
    Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN ||
   </b>
-  </a>
+  <a>https://showspace.so/s/atharv-naik7 </a>
+</a>
   </p>
 
 <p align="center">
