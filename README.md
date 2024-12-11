@@ -3,7 +3,8 @@
   <p>Visit my Portfolio : https://showspace.so/s/atharv-naik7 </p>
 <a>
   <b>
-   Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN ||
+    
+<!--    Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN || -->
   </b>
 </a>
   </p>
