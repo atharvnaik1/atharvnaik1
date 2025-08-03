@@ -3,6 +3,7 @@
   <p><b>Visit my Portfolio :(https://atharv-naik.vercel.app)</b> </p>
 <a>
   <b>
+Latest projects :: NFT MARKETPLACE - https://github.com/atharvnaik1/NFT-MARKETPLACE
     
 <!--    Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN || -->
   </b>
