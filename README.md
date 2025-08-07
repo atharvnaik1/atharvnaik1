@@ -26,7 +26,7 @@
   </code>
 </pre>
  
-🧰 Tech Stack & Tools < br/>
+🧰 Tech Stack & Tools <br/><br/>
 Languages
 <p align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> 
