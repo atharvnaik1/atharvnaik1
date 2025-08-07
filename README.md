@@ -1,28 +1,12 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<p align='center'>
-  <p><b>Visit my Portfolio :(https://atharv-naik.vercel.app)</b> </p>
-<p>
-  <b>
-Latest projects :: NFT MARKETPLACE - 
-https://nft-marketplace-seven-lovat.vercel.app
-    
-<!--    Full Stack Developer | MERN | NEXT.JS | TYPESCRIPT | API INTEGRATION | LANGCHAIN || -->
-  </b>
-</p>
-  </p>
+<img align="left" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="22%" style="display:inline;">
+<img align="right" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="22%" style="display:inline;">
 
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvnaik1&hide=jupyter%20notebook&theme=gotham&layout=compact"width="40%"/> 
-</p> -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my-Terminal_Style_Repo-22c55e?style=for-the-badge&logo=gnubash&logoColor=white" />
+</h2>
 
-<p align="center">
-<a href="https://github.com/atharvnaik1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=atharvnaik1&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Atharv ka github-readme-stats"/></a>
-<a href="https://github.com/atharvnaik1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-<p align="center">
-   <i style="font-size: 20px;"> 
-  <b> Contact me @ atharvajaynaik@gmail.com
-  </b>
-</i>
-</p>
+```bash
+> Portfolio     : https://atharv-naik.vercel.app
+> Latest Project: NFT Marketplace 🚀
+> Live Demo     : https://nft-marketplace-seven-lovat.vercel.app
+> Contact       : atharvajaynaik@gmail.com
