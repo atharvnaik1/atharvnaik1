@@ -57,7 +57,7 @@ Web3
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/960px-Ethereum_logo_translucent.svg.png" width="40" title="Ethereum"/>
 <img src ="https://avatars.githubusercontent.com/u/122031068?s=48&v=4" width="40" title="Solana"/>
- <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="40" title="Foundry"/> <img src="https://wagmi.sh/logo-dark.svg" width="40" title="Wagmi"/> <img src="https://www.openzeppelin.com/hubfs/oz-nav.svg" width="40" title="OpenZeppelin" style="background-color:#f0f0f0; padding:5px; border-radius:5px;/>
+ <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="40" title="Foundry"/> <img src="https://wagmi.sh/logo-dark.svg" width="40" title="Wagmi"/> <img src="https://www.openzeppelin.com/hubfs/oz-nav.svg" width="40" title="OpenZeppelin" style="background-color:#f0f0f0; padding:5px; border-radius:5px;"/>
 <br><br/>
 </p>
 
