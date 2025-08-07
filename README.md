@@ -35,30 +35,38 @@ Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/> 
 <br><br/>
-
-
-<!-- Frontend --> 
+</p>
+Frontend 
+<p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
-<br/><br/>
+<br><br/>
+</p>
 
-<!-- Backend --> 
+Backend
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
-<JAVA SPRINGBOOT>  
-<RUST 
-<br/><br/>
+JAVA SPRINGBOOT 
+RUST 
+<br><br/>
+</p>
 
-<!-- Web3 --> 
+Web3
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" title="Ethereum"/> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://seeklogo.com/images/F/foundry-logo-D4EF97C2E1-seeklogo.com.png" width="40" title="Foundry"/> <img src="https://seeklogo.com/images/W/wagmi-logo-5E3D6D3702-seeklogo.com.png" width="40" title="Wagmi"/> <img src="https://seeklogo.com/images/O/openzeppelin-logo-8285C5D274-seeklogo.com.png" width="40" title="OpenZeppelin"/>
-<br/><br/>
+<br><br/>
+</p>
 
-<!-- DevOps --> 
+DevOps
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-<br/><br/>
+<br><br/>
+</p>
 
-<!-- Databases --> 
+Databases
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ClickHouse_logo.svg/512px-ClickHouse_logo.svg.png" width="40" title="ClickHouse"/> </p>
 📈 GitHub Stats
 <p align="center"> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=atharvnaik1&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" width="48%" /> </a> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </a> </p>
