@@ -17,9 +17,8 @@ atharvnaik@github:~$ 🟢 start
 
 
   </code>
-  <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
 </pre>
-  
+   <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
  
 
   
