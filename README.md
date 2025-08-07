@@ -15,8 +15,9 @@ atharvnaik@github:~$ 🟢 start
 ( A | T || H || A | R | V )        > Portfolio: https://atharv-naik.vercel.app
  \_/ \_/  \_/  \_/ \_/ \_/           Latest Project: NFT Marketplace🥇
 
-<img src= "https://www.geocities.ws/333/pics/terminator4.png" />
+
   </code>
+  <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
 </pre>
   
  
