@@ -32,7 +32,7 @@ Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" width="40" title="Rust"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/> 
 <br><br/>
 </p>
@@ -55,13 +55,15 @@ RUST
 
 Web3
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" title="Ethereum"/> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://seeklogo.com/images/F/foundry-logo-D4EF97C2E1-seeklogo.com.png" width="40" title="Foundry"/> <img src="https://seeklogo.com/images/W/wagmi-logo-5E3D6D3702-seeklogo.com.png" width="40" title="Wagmi"/> <img src="https://seeklogo.com/images/O/openzeppelin-logo-8285C5D274-seeklogo.com.png" width="40" title="OpenZeppelin"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/960px-Ethereum_logo_translucent.svg.png" width="40" title="Ethereum"/>
+<img src ="https://avatars.githubusercontent.com/u/122031068?s=48&v=4" width="40" title="Solana"/>
+ <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="40" title="Foundry"/> <img src="https://wagmi.sh/logo-dark.svg" width="40" title="Wagmi"/> <img src="https://www.openzeppelin.com/hubfs/oz-nav.svg" width="40" title="OpenZeppelin"/>
 <br><br/>
 </p>
 
 DevOps
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
 <br><br/>
 </p>
 
