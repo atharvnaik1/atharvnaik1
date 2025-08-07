@@ -4,12 +4,11 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full+Stack+Enforcer%F0%9F%9A%80..." alt="Typing SVG" />
 </p>
-
+ <img src= "https://www.geocities.ws/333/pics/terminator4.png" /> 
 <pre align="center">
-  ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-  ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+-.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.--..-.-..-..-.-.--..-.-.-.-.--..-.-.-.-.--..-.--..--..-.-.-..-.-..--.-..-.-.-.-.--.-.-..-.-.-.-..--..--.-..-.--.-.-.-.-.-.-
 atharvnaik@github:~$ 🟢 start  
-  <img src= "https://www.geocities.ws/333/pics/terminator4.png" />    
+    
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
  / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
