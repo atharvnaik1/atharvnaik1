@@ -8,8 +8,8 @@
 
 atharvnaik@github:~$ start      
         
-  _   _    _    _   _   _              User: Atharv Naik
- / \ / \  / \  / \ / \ / \         Role: Full Stack / Web3 / AI Full Stack
+  _   _    _    _   _   _              
+ / \ / \  / \  / \ / \ / \      
 ( A | T || H || A | R | V )
  \_/ \_/  \_/  \_/ \_/ \_/  
 
