@@ -61,9 +61,10 @@ Web3
 <br><br/>
 </p>
 
-DevOps
+DevOps & Tools
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+<img src ="https://www.svgrepo.com/show/353950/kafka.svg" width ="40" title="Kafka"/>
 <br><br/>
 </p>
 
