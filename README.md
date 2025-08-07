@@ -6,16 +6,17 @@
 </p>
 
 <pre align="center">
+  ```
 atharvnaik@github:~$ 🟢 start      
  <code>       
-  _   _    _    _   _   _          User: Atharv Naik        
- / \ / \  / \  / \ / \ / \        Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
-( A | T || H || A | R | V )        Portfolio: https://atharv-naik.vercel.app
- \_/ \_/  \_/  \_/ \_/ \_/        Latest Project: NFT Marketplace🥇
+  _   _    _    _   _   _          > User: Atharv Naik        
+ / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
+( A | T || H || A | R | V )        > Portfolio: https://atharv-naik.vercel.app
+ \_/ \_/  \_/  \_/ \_/ \_/           Latest Project: NFT Marketplace🥇
 
 <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
 
-                                  
+       ```                           
   </code>
 </pre>
   
