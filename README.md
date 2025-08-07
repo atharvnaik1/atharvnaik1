@@ -6,7 +6,8 @@
 </p>
 ```bash
 atharvnaik@github:~$ npm run start
-<!-- ASCII-style terminal pre block --> <pre align="center"> -.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.- </pre> <!-- Simulated image reveal --> <p align="center"> <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." /> </p> ```
+<!-- ASCII-style terminal pre block --> <!-- Simulated image reveal --> <p align="center"> <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." /> </p> 
+```
 <pre align="center">
 -.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.-
     
