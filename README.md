@@ -8,10 +8,8 @@
 <div>
 
 ```bash
-atharvnaik@github:~$ neofetch
-yaml
-Copy
-Edit
+atharvnaik@github:~$ start
+
              ▄▄▄▄▄▄▄▄▄
           ▄█████████████▄
         ▄█████████████████▄       User: Atharv Naik
