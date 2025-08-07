@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ```bash
 atharvnaik@github:~$ neofetch
