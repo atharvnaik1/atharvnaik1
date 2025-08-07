@@ -1,7 +1,7 @@
 <!-- Terminal-styled GitHub README with Animated Header + Icons -->
 
 <!-- 🚀 Typing animation at the top -->
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+I'm+Atharv+Naik+%F0%9F%9A%80;Full+Stack+%7C+Web3+%7C+Cloud+Developer;Loading+GitHub+Profile..." alt="Typing SVG" />
 </p>
 
