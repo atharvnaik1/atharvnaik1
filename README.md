@@ -4,14 +4,15 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full+Stack+Enforcer%F0%9F%9A%80..." alt="Typing SVG" />
 </p>
- <img src= "https://www.geocities.ws/333/pics/terminator4.png" /> 
+``bash
+atharvnaik@github:~$ npm run start
+<!-- ASCII-style terminal pre block --> <pre align="center"> -.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.- </pre> <!-- Simulated image reveal --> <p align="center"> <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." /> </p> ```
 <pre align="center">
--.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.--..-.-..-..-.-.--..-.-.-.-.--..-.-.-.-.--..-.--..--..-.-.-..-.-..--.-..-.-.-.-.--.-.-..-.-.-.-..--..--.-..-.--.-.-.-.-.-.-
-atharvnaik@github:~$ 🟢 start  
+-.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.-
     
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
- / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
+ / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (+AI) | Node.js Expert | WEB 3 
 ( A | T || H || A | R | V )        > Portfolio: https://atharv-naik.vercel.app
  \_/ \_/  \_/  \_/ \_/ \_/           Latest Project: NFT Marketplace🥇
 
