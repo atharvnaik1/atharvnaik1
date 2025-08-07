@@ -6,7 +6,8 @@
 </p>
 
 <pre align="center">
-  ```
+  ``````````````````````````
+  ``````````````````````````
 atharvnaik@github:~$ 🟢 start      
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
@@ -15,8 +16,6 @@ atharvnaik@github:~$ 🟢 start
  \_/ \_/  \_/  \_/ \_/ \_/           Latest Project: NFT Marketplace🥇
 
 <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
-
-       ```                           
   </code>
 </pre>
   
