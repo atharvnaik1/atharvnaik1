@@ -41,7 +41,7 @@ Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
+<img src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" width="40" title="Tailwind CSS"/>
 <br><br/>
 </p>
 
@@ -69,7 +69,7 @@ DevOps
 
 Databases
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ClickHouse_logo.svg/512px-ClickHouse_logo.svg.png" width="40" title="ClickHouse"/> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://avatars.githubusercontent.com/u/54801242?s=48&v=4" width="40" title="ClickHouse"/> </p>
 📈 GitHub Stats
 <p align="center"> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=atharvnaik1&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" width="48%" /> </a> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </a> </p>
 🔗 Connect With Me
