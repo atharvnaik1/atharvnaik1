@@ -5,14 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full+Stack+Enforcer%F0%9F%9A%80..." alt="Typing SVG" />
 </p>
 <!-- Simulated Terminal Command -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Terminal-Bash-00ff00?style=flat-square&logo=gnubash&logoColor=green" />
-</p>
+
 <p>
   <code><strong>atharvnaik@github:~$</strong> npm run start</code>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Terminal-Bash-00ff00?style=flat-square&logo=gnubash&logoColor=green" />
 </p>
-
-<!-- ASCII-style Image Reveal -->
+</p>
 <p align="center">
   <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." />
 </p>
