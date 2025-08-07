@@ -16,8 +16,6 @@
   <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." />
 </p>
 <pre align="center">
--.-.-.-.-..-..-.-.-.-..-.-.-.-.-.-.-.-.-.--.-.-.-..--..--.-.-..--.-..--..-.-.--.-..-.-.--.-..-.-..-.-.---.--..--..-.---.-
-    
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
  / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (+AI) | Node.js Expert | WEB 3 
@@ -28,28 +26,38 @@
   </code>
 </pre>
  
- 
-
-  
-
-
 🧰 Tech Stack & Tools
-<p align="center"> <!-- Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
+<p align="center"> <!-- Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" 
 <br/><br/>
 
-<!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
+<!-- Frontend --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
 <br/><br/>
 
-<!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+<!-- Backend --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+<JAVA SPRINGBOOT>  
+<RUST 
 <br/><br/>
 
-<!-- Web3 --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" title="Ethereum"/> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://seeklogo.com/images/F/foundry-logo-D4EF97C2E1-seeklogo.com.png" width="40" title="Foundry"/> <img src="https://seeklogo.com/images/W/wagmi-logo-5E3D6D3702-seeklogo.com.png" width="40" title="Wagmi"/> <img src="https://seeklogo.com/images/O/openzeppelin-logo-8285C5D274-seeklogo.com.png" width="40" title="OpenZeppelin"/>
+<!-- Web3 --> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" title="Ethereum"/> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="40" title="Hardhat"/> <img src="https://seeklogo.com/images/F/foundry-logo-D4EF97C2E1-seeklogo.com.png" width="40" title="Foundry"/> <img src="https://seeklogo.com/images/W/wagmi-logo-5E3D6D3702-seeklogo.com.png" width="40" title="Wagmi"/> <img src="https://seeklogo.com/images/O/openzeppelin-logo-8285C5D274-seeklogo.com.png" width="40" title="OpenZeppelin"/>
 <br/><br/>
 
-<!-- DevOps --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+<!-- DevOps --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
 <br/><br/>
 
-<!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ClickHouse_logo.svg/512px-ClickHouse_logo.svg.png" width="40" title="ClickHouse"/> </p>
+<!-- Databases --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ClickHouse_logo.svg/512px-ClickHouse_logo.svg.png" width="40" title="ClickHouse"/> </p>
 📈 GitHub Stats
 <p align="center"> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=atharvnaik1&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" width="48%" /> </a> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </a> </p>
 🔗 Connect With Me
