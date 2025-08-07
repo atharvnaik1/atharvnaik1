@@ -18,8 +18,6 @@
 </code>
 </pre>
 
----
-
 ```bash
 atharvnaik@github:~$ start
 
