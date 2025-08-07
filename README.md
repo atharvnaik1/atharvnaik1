@@ -23,8 +23,7 @@ Edit
          ▀██████████████▀    Portfolio: atharv-naik.vercel.app
             ▀▀▀▀▀▀▀▀▀▀▀
 bash
-Copy
-Edit
+```
 > Latest Project: NFT Marketplace
 > Live Demo     : https://nft-marketplace-seven-lovat.vercel.app
 > GitHub        : https://github.com/atharvnaik1
