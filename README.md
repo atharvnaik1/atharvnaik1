@@ -5,22 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full+Stack+Dev+%F0%9F%9A%80..." alt="Typing SVG" />
 </p>
 
-<!-- ASCII A Banner -->
-<pre align="center">
-<code align ="center">
-  _   _    _    _   _   _  
- / \ / \  / \  / \ / \ / \ 
+
+atharvnaik@github:~$ start      
+https://www.geocities.ws/333/pics/terminator4.png          
+  _   _    _    _   _   _              User: Atharv Naik
+ / \ / \  / \  / \ / \ / \         Role: Full Stack / Web3 / AI Full Stack
 ( A | T || H || A | R | V )
  \_/ \_/  \_/  \_/ \_/ \_/  
 
-</code>
-</pre>
-
-atharvnaik@github:~$ start
-
-  User: Atharv Naik
-  Role: Full Stack / Web3 / Cloud Developer
-  Skills: JavaScript, React, Node, Solidity
+  
+  
+ 
   Email: atharvajaynaik@gmail.com
   Portfolio: https://atharv-naik.vercel.app
 📦 Latest Project: NFT Marketplace
