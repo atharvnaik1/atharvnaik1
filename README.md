@@ -1,15 +1,15 @@
 <!-- Terminal-Style GitHub README with Dark Theme and ASCII Art -->
 
-<!-- 🟢 Typing animation in green like a Linux terminal -->
+<!-- Typing animation in green like a Linux terminal -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full+Stack+Dev+%F0%9F%9A%80..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+from+Full Stack Enforcer%F0%9F%9A%80..." alt="Typing SVG" />
 </p>
 
 <pre align="center">
-atharvnaik@github:~$ start      
+atharvnaik@github:~$ 🟢 start      
  <code>       
-  _   _    _    _   _   _              
- / \ / \  / \  / \ / \ / \      
+  _   _    _    _   _   _          User: Atharv Naik        
+ / \ / \  / \  / \ / \ / \        Role: 
 ( A | T || H || A | R | V )
  \_/ \_/  \_/  \_/ \_/ \_/  
 
