@@ -64,7 +64,7 @@ Web3
 DevOps & Tools
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
-<img src ="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1536x701.png.webp" title="Kafka"/>
+<img src ="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1536x701.png.webp" width ="80" title="Kafka"/>
 <br><br/>
 </p>
 
