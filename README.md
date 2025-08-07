@@ -16,7 +16,6 @@
 </code>
 </pre>
 
-```bash
 atharvnaik@github:~$ start
 
   User: Atharv Naik
@@ -48,4 +47,4 @@ atharvnaik@github:~$ start
 📈 GitHub Stats
 <p align="center"> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=atharvnaik1&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" width="48%" /> </a> <a href="https://github.com/atharvnaik1"> <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvnaik1&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </a> </p>
 🔗 Connect With Me
-<p align="center"> <a href="mailto:atharvajaynaik@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email_Me-green?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://atharv-naik.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/atharvnaik1?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> ```
+<p align="center"> <a href="mailto:atharvajaynaik@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email_Me-green?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://atharv-naik.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/atharvnaik1?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
