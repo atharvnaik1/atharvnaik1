@@ -7,7 +7,7 @@
 
 
 atharvnaik@github:~$ start      
-https://www.geocities.ws/333/pics/terminator4.png          
+        
   _   _    _    _   _   _              User: Atharv Naik
  / \ / \  / \  / \ / \ / \         Role: Full Stack / Web3 / AI Full Stack
 ( A | T || H || A | R | V )
