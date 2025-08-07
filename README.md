@@ -2,7 +2,7 @@
 
 <!-- 🟢 Typing animation in green like a Linux terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+I'm+Atharv+Naik+%F0%9F%9A%80;Full+Stack+%7C+Web3+%7C+Cloud+Developer;Loading+GitHub+Profile..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Initializing...;Hello%2C+I'm+Atharv+Naik+%F0%9F%9A%80;Full+Stack+%7C+Web3+%7C+Cloud+Developer;Loading+GitHub+Profile..." alt="Typing SVG" />
 </p>
 
 <!-- ASCII A Banner -->
