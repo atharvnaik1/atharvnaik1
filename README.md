@@ -8,7 +8,8 @@
 <pre align="center">
   ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
   ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-atharvnaik@github:~$ 🟢 start      
+atharvnaik@github:~$ 🟢 start  
+  <img src= "https://www.geocities.ws/333/pics/terminator4.png" />    
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
  / \ / \  / \  / \ / \ / \           Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
@@ -18,7 +19,7 @@ atharvnaik@github:~$ 🟢 start
 
   </code>
 </pre>
-   <img src= "https://www.geocities.ws/333/pics/terminator4.png" />
+ 
  
 
   
