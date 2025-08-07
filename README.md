@@ -6,7 +6,7 @@
 </p>
 <!-- Simulated Terminal Command -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Terminal-Bash-00ff00?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Bash-00ff00?style=flat-square&logo=gnubash&logoColor=green" />
 </p>
 <p>
   <code><strong>atharvnaik@github:~$</strong> npm run start</code>
