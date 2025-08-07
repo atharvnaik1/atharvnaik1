@@ -7,13 +7,13 @@
 
 
 atharvnaik@github:~$ start      
-        
+ <code>       
   _   _    _    _   _   _              
  / \ / \  / \  / \ / \ / \      
 ( A | T || H || A | R | V )
  \_/ \_/  \_/  \_/ \_/ \_/  
 
-  
+  </code>
   
  
   Email: atharvajaynaik@gmail.com
