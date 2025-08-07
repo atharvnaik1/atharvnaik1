@@ -9,19 +9,20 @@
 atharvnaik@github:~$ 🟢 start      
  <code>       
   _   _    _    _   _   _          User: Atharv Naik        
- / \ / \  / \  / \ / \ / \        Role: 
-( A | T || H || A | R | V )
- \_/ \_/  \_/  \_/ \_/ \_/  
+ / \ / \  / \  / \ / \ / \        Role: Full Stack Dev (AI) | Node.js Expert | WEB 3 
+( A | T || H || A | R | V )        Portfolio: https://atharv-naik.vercel.app
+ \_/ \_/  \_/  \_/ \_/ \_/        Latest Project: NFT Marketplace🥇
 
+<img src= "https://www.geocities.ws/333/pics/terminator4.png" />
+
+                                  
   </code>
 </pre>
   
  
-  Email: atharvajaynaik@gmail.com
-  Portfolio: https://atharv-naik.vercel.app
-📦 Latest Project: NFT Marketplace
-🌐 Live Demo : nft-marketplace
-🗂️ GitHub : @atharvnaik1
+
+  
+
 
 🧰 Tech Stack & Tools
 <p align="center"> <!-- Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
