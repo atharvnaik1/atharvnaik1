@@ -8,9 +8,9 @@
 <p>
   <code><strong>atharvnaik@github:~$</strong> npm run start</code>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." />
-</p>
+</p> -->
 <pre align="center">
  <code>       
   _   _    _    _   _   _          > User: Atharv Naik        
