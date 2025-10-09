@@ -7,9 +7,6 @@
 
 <p>
   <code><strong>atharvnaik@github:~$</strong> npm run start</code>
-  <p align="left">
-  <img src="https://img.shields.io/badge/Terminal-Bash-00ff00?style=flat-square&logo=gnubash&logoColor=green" />
-</p>
 </p>
 <p align="center">
   <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." />
