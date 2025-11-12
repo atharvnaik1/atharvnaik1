@@ -7,7 +7,7 @@
 
 <p>
  
-  <code><strong>atharvnaik@github:~$</strong> npm run start</code>  https://async-atharv.com
+  <code><strong>atharvnaik@github:~$</strong> npm run start</code> >>  https://async-atharv.com
 </p>
 <!-- <p align="center">
   <img src="https://www.geocities.ws/333/pics/terminator4.png" alt="T-800 Booting..." />
